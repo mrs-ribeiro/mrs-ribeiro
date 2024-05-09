@@ -1,5 +1,5 @@
 ## Marcio Ribeiro
-- 👋 Hi, I’m @mrs-ribeiro Network Analyst and now a days, DIO AWS student.
+- 👋 Hi, I’m @mrs-ribeiro Network Analyst and nowadays, DIO AWS student.
 - 👀 I’m interested in Network Infrastructure, Python, Cloud and Security.
   
 ## Learning Moment
